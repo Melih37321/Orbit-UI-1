@@ -5,3 +5,4 @@ mezarci
 alone
 puma
 hasan
+gamer
