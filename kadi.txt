@@ -6,3 +6,4 @@ alone
 puma
 hasan
 gamer
+Anarchy
