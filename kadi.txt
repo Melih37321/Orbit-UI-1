@@ -7,3 +7,4 @@ puma
 hasan
 gamer
 Anarchy
+Troxy
