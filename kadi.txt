@@ -34,3 +34,4 @@ Bas1c
 Null
 sum
 cellenT
+kursathelegit
